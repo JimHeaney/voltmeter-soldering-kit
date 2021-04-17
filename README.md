@@ -8,12 +8,15 @@ The latest assembly instructions can be found [here](http://www.venatormfg.com/v
 
 ## Featured In...
 [Hackaday](https://hackaday.com/2020/09/26/soldering-practice-kit-remains-useful-after-completion/)
+
 [Microchip Makes](https://www.instagram.com/p/CEpuBLDH5r5/)
 
 ## Support Me
 You can purchase the Voltmeter Soldering Kit on [Tindie](https://www.tindie.com/products/jimheaney/voltmeter-soldering-kit/).
+
 You can also buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
 
 ## License
 This project is licensed under the Creative Commons 4.0 Attribution-NonCommercial-ShareAlike. For more information, click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 If you want to use this project under a different license, please contact me. 
