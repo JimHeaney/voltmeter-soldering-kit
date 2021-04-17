@@ -3,7 +3,13 @@
 ## Overview
 The Voltmeter Soldering Kit is a simple and useful through-hole soldering kit, great for beginners. It includes a wide variety of common electrical components to help teach about identifying and using different components. When completed, the Voltmeter Soldering Kit, as the name implies, can be used as a Voltmeter to measure positive DC voltages between 0 and 50, with an accuracy of +/-0.1. When no longer needed, the 328P can be harvested from the Voltmeter and put into the 328P breakout board, to use as a barebones Arduino. 
 
-## Instructions
+## Current Release
+Version 1.2
+
+## Current State
+The Voltmeter Soldering Kit is active, but there are no planned changes. 
+
+## Instructions & Further Documentation
 The latest assembly instructions can be found [here](http://www.venatormfg.com/voltmeter-solder-kit-instructions.html).
 
 ## Featured In...
